@@ -4,7 +4,7 @@ This repo hopes to foster a community around the Gorilla Web Toolkit project, wh
 
 ## Main Goal
 
-The main goal is gather enough momentum where we could propose to the previous maintainers about unarchiving the original Gorilla repo and allowing us to continue maintaining it there.
+The long-term goal is to gain enough developer resources and code insight where we could propose to the previous maintainers about unarchiving the original Gorilla repo and allowing us to continue maintaining it there.
 
 ## How Can You Help?
 
