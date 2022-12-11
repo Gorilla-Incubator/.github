@@ -13,7 +13,7 @@ The long-term goal is to gain enough developer resources and code insight where 
 If you can commit long-term and want to help manage sub-projects, then I can invite you to become a member of the organization and put you on a team.  Specifically, I need people who can be on top of addressing issues, review and test pull requests, etc.  Help with prioritizing issues and PRs that are relevant to the project.  Let me know which team you want to be part a part of:
 
 - **WebSockets** - https://github.com/GorillaIncubator/websocket
-- **Mux** - https://github.com/orgs/GorillaIncubator/mux
+- **Mux** - https://github.com/GorillaIncubator/mux
 - **Sessions** - https://github.com/GorillaIncubator/sessions
 - **Secure Cookie** - https://github.com/GorillaIncubator/securecookie
 
